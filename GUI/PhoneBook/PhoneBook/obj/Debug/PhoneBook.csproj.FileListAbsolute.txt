@@ -1,0 +1,52 @@
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\MetroSet UI.dll
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.EditPhoneForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.NewPhoneForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\MetroSet UI.dll
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.EditPhoneForm.resources
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.NewPhoneForm.resources
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Course\Course5\PRN292\Project\pj2\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\MetroSet UI.dll
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.EditPhoneForm.resources
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.NewPhoneForm.resources
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\FPTU\Curriculum\PRN292 (.NET and C#)\Project cuối kì\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\MetroSet UI.dll
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\bin\Debug\stdole.dll
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.EditPhoneForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.NewPhoneForm.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\FPT University\Year 2019\Summer 2019\C# and .NET (PRN292)\PJ\GUI\final\PJ\GUI\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
