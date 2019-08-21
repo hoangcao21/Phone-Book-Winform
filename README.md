@@ -2,7 +2,7 @@
 
 This is a desktop application to stimulate a phone book in real life. My group semester assignment for ```.NET C#``` course.
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Telefonbog_ubt-1.JPG)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Telefonbog_ubt-1.JPG" width="300">
 
 Some images to demonstrate the GUI of the application.
 
